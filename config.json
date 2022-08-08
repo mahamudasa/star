@@ -1,0 +1,35 @@
+{
+    "ownerNumber": "6282274499424@s.whatsapp.net", 
+    "ownerName": "Rainbetmutxyz", 
+    "botName": "STARS BOT",
+    "footer": "© Rainbetmutxyz | 2022", 
+    "sessionName": "session", 
+    "pathimg": "./media/logo.jpg", 
+    "pathqris": "./media/qris.jpg",
+    "group": "https://chat.whatsapp.com/Kxgw8YE7JxuHjaKtGZAfvh",
+    "yootube": "https://youtube.com/channel/UC5WIsU9PIu65E4USm5s6MyQ",
+     
+    "textBarisDonate1": "Dana : 0822-5132-3144",
+    "textBarisDonate2": "Ovo : 0822-5132-3144",
+    "textBarisDonate3": "Gopay : 0822-5132-3144",
+    "textBarisDonate4": "Pulsa : 0822-5132-3144",
+  
+    "ButtonTextMenu1": "YouTube",
+    "ButtonTextMenu2": "Tiktok",
+    "quickReplyButton3": "Rules",
+    "quickReplyButton4": "Donasi",
+    "quickReplyButton5": "Dashboard",
+  
+    "ButtonMenuLink1": "https://youtube.com/channel/UC5WIsU9PIu65E4USm5s6MyQ",
+    "ButtonMenuLink2": "https://www.tiktok.com/@rain4you_?_t=8UezMrxi84w&_r=1",
+    "displayTextMenu3": "rules",
+    "displayTextMenu4": "donasi",
+    "displayTextMenu5": "dashboard",
+    "limitCount": 100,
+    "limitGame": 35,
+    "gamewaktu": 90,
+    "sticker": {
+        "packname": "© Rainbetmutxyz",
+        "author": "Buatan Siapa? Buatan Rainbetmutxyz, Mau Nomornya? 082274499424 , Orang nya Baik, Ganteng + Ngangenin loh:)"
+    }
+}
